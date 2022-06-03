@@ -35,7 +35,7 @@ foreach($infos as $info){
     <p class="langage">'.$info["langage"].'</p>
   </figcaption>   
   </figure>
-    <p class="definition">'.$info["Définition"].'</p>
+    <p class="definition">'.$info["Definition"].'</p>
 </div>';
         }
         echo'</div>'
